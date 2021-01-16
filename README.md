@@ -1,0 +1,2 @@
+# johnbot
+bot
